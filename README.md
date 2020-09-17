@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps:
 👤 **Daniel Sokil**
 
 - Github: [@danielsokil](https://github.com/danielsokil)
-- Linkedin: [@danielsokil](https://linkedin.com/in/daniel-sokil)
+- Linkedin: [@danielsokil](www.linkedin.com/in/daniel-sokil)
 
 ## 🤝 Contributing
 
