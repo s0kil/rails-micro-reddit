@@ -4,7 +4,7 @@
 
 ## Code execution view:
 
-![screenshot](../app/bin/assets/images/code.png)
+![screenshot](./app/bin/assets/images/code.png)
 
 ## Built With
 
